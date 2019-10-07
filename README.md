@@ -10,9 +10,9 @@ This repo is an implementation of canny edge detector.
  # Run
  
  To run the code, use command as follows:
- ''' 
+
  python edge_detector.py <address of image> 
- '''
+
   
  # Results
  ![0](results/ori1.png)
