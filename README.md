@@ -17,5 +17,4 @@ This repo is an implementation of canny edge detector.
  # Results
  ![0](results/ori1.png)
  ![1](results/ori2.png)
- ![2](results/ori3.png)
- ![3](results/ori4.png)
+
